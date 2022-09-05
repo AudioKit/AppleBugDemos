@@ -10,3 +10,5 @@ Steps to reproduce:
 2. Witness dragging etiher the red or green circle moves the circle.
 3. Witness that starting drag on the green circle allows the red circle to be moved with another finger simultaneously.
 4. Witness that starting drag on the red circle prevents another finger moving the green circle simultaneously.
+
+![](SwiftUIGesturesBlockUIKitTouches.png)
